@@ -2,12 +2,12 @@
 
 ### Hi, I'm Esteban (`@Spilveru`)
 
-**Software developer from Chile building fast, native desktop applications, developer tools, and self-hosted software.**
+**Full-stack developer from Chile building web applications, backend services, and fast developer tools.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Spilveru-181717?style=flat-square&logo=github)](https://github.com/Spilveru)
-[![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://kernel.org/)
 
 </div>
@@ -30,12 +30,13 @@
 
 ### What I Work With
 
-- **Desktop & Systems:** Rust, GPUI, Linux desktop tooling, cross-platform packaging (AppImage, `.deb`, NSIS, macOS)
-- **Web & Backend:** TypeScript, Go, React, Next.js, Vue, REST APIs, SQLite / PostgreSQL
-- **Focus:** Native performance, clean UI/UX, local-first & self-hosted tools, and practical security
+- **Frontend & Web:** TypeScript, React, Next.js, Vue, responsive UI/UX
+- **Backend & Data:** Go, Node.js, REST APIs, PostgreSQL, SQLite
+- **Desktop & Systems:** Rust, GPUI, cross-platform packaging (AppImage, `.deb`, NSIS, macOS), Linux tooling
+- **Focus:** End-to-end product engineering, clean architecture, developer experience, and native performance
 
 ---
 
 <div align="center">
-  <sub>Open to feedback, issues, and collaborations on open-source developer tools.</sub>
+  <sub>Open to collaborations, feedback, and interesting full-stack or open-source projects.</sub>
 </div>
